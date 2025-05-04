@@ -1,1 +1,1 @@
-# chad-store-rezo
+# chad-store
